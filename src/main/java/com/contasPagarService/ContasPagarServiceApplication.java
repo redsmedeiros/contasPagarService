@@ -1,0 +1,13 @@
+package com.contasPagarService;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ContasPagarServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ContasPagarServiceApplication.class, args);
+	}
+
+}
